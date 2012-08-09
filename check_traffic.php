@@ -45,7 +45,7 @@ foreach ($this->DS as $KEY=>$VAL) {
         $max = '';
         if ($VAL['MAX'] != '') { $max = pnp::adjust_unit($VAL['MAX'],1000,'%3.0lf'); }
         if ($max != '') {
-            $def[$interface] .= rrd::hrule($max[3], "#005500", "Max\: $max[0]$vlabel\\r");
+            $def[$interface] .= rrd::comment("Max\: $max[0]$vlabel\\r");
         }
     }
 }
