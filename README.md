@@ -9,7 +9,7 @@ Three types of files:
 * \*.png: A sample graph output
 
 ## check_traffic
-![](master/check_traffic.png)
+![](https://raw.github.com/mathieumd/nagios-plugins/master/check_traffic.png)
 
 ## check_usage_by_users
-![](master/check_usage_by_users.png)
+![](https://raw.github.com/mathieumd/nagios-plugins/master/check_usage_by_users.png)
