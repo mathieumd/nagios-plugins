@@ -9,7 +9,7 @@ Three types of files:
 * \*.png: A sample graph output
 
 ## check_traffic
-![](check_traffic.png)
+![](master/check_traffic.png)
 
 ## check_usage_by_users
-![](check_usage_by_users.png)
+![](master/check_usage_by_users.png)
